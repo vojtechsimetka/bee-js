@@ -1,5 +1,5 @@
-import { Readable } from 'stream'
-import { UploadOptions, Dictionary } from '../types'
+import type { Readable } from 'stream'
+import type { UploadOptions, Dictionary } from '../types'
 import { prepareData } from '../utils/data'
 import { safeAxios } from '../utils/safeAxios'
 import contentDisposition from 'content-disposition'

@@ -1,4 +1,4 @@
-import { Tag } from '../types'
+import type { Tag } from '../types'
 import { safeAxios } from '../utils/safeAxios'
 
 const endpoint = '/tags'

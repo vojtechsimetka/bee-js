@@ -1,7 +1,7 @@
-import { Readable } from 'stream'
+import type { UploadOptions, Tag } from './types'
+import type { Readable } from 'stream'
 import * as file from './modules/file'
 import * as tag from './modules/tag'
-import { UploadOptions, Tag } from './types'
 
 type Reference = string
 
