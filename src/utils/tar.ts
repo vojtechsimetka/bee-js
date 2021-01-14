@@ -1,6 +1,5 @@
 import { Collection } from '../types'
 import Tar from 'tar-js'
-
 export async function makeTar(data: Collection<Uint8Array>): Promise<Uint8Array> {
   const tar = new Tar()
   for (const entry of data) {

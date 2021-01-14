@@ -16,6 +16,7 @@ function readContentDispositionFilename(header?: string): string {
     }
     // Regex was found here
     // https://stackoverflow.com/questions/23054475/javascript-regex-for-extracting-filename-from-content-disposition-header
+
     const dispositionMatch = header.match(/filename\*?=['"]?(?:UTF-\d['"]*)?([^;\r\n"']*)['"]?;?/i)
 
     if (dispositionMatch && dispositionMatch.length > 0) {

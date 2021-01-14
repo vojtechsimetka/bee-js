@@ -19,7 +19,6 @@ import type {
   BeeResponse,
 } from './types'
 import { BeeError } from './utils/error'
-
 /**
  * The Bee class provides a way of interacting with the Bee APIs based on the provided url
  *
