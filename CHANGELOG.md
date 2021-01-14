@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.1.0...v0.2.0) (2021-01-14)
+
+
+### Features
+
+* tar in browser ([38b4fa2](https://www.github.com/vojtechsimetka/bee-js/commit/38b4fa27be26885146d636c51d8aba16d127f4bf))
+
 ## [0.1.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.1.0...v0.1.0) (2021-01-14)
 
 
