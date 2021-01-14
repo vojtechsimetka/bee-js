@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.2.0...v0.2.1) (2021-01-14)
+
+
+### Bug Fixes
+
+* npm publish package publicly ([346c678](https://www.github.com/vojtechsimetka/bee-js/commit/346c6787732b334e5ffd9f683ae0d818a846ca6f))
+
 ## [0.2.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.1.0...v0.2.0) (2021-01-14)
 
 
