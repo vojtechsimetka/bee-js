@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.4...v0.4.0) (2021-01-15)
+
+
+### Features
+
+* why the hell this does not work ([0e6e295](https://www.github.com/vojtechsimetka/bee-js/commit/0e6e2957142541ef9af90ea98a81f5fe22c0831c))
+
 ### [0.3.4](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.3...v0.3.4) (2021-01-15)
 
 
