@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.2.1...v0.3.0) (2021-01-15)
+
+
+### Features
+
+* just a test with the next workflow ([c701a54](https://www.github.com/vojtechsimetka/bee-js/commit/c701a546f099a156ce7f07ce22ff2dfb78eaae25))
+
 ### [0.2.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.2.0...v0.2.1) (2021-01-14)
 
 
