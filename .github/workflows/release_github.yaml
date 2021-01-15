@@ -8,7 +8,7 @@ on:
       - master
 
 jobs:
-  release-please:
+  release-github:
     runs-on: ubuntu-latest
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v1.3.0
