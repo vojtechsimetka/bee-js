@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.2](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.1...v0.4.2) (2021-01-15)
+
+
+### Bug Fixes
+
+* minor changes to the github action, will it work? ([ef87035](https://www.github.com/vojtechsimetka/bee-js/commit/ef87035adb37f72310e1c05dd33f4814ff36e792))
+
 ### [0.4.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.0...v0.4.1) (2021-01-15)
 
 
