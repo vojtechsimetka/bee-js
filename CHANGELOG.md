@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.0...v0.3.1) (2021-01-15)
+
+
+### Bug Fixes
+
+* syntax error in release action ([afed291](https://www.github.com/vojtechsimetka/bee-js/commit/afed291c6eae219a292310f85188896c1a620dd5))
+
 ## [0.3.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.2.1...v0.3.0) (2021-01-15)
 
 
