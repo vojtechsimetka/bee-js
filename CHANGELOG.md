@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.0...v0.4.1) (2021-01-15)
+
+
+### Bug Fixes
+
+* really just trying pretty much anything to trigger the npmjs action ([805fd85](https://www.github.com/vojtechsimetka/bee-js/commit/805fd85ac2b57891daece3f74be4328a90a1b630))
+
 ## [0.4.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.4...v0.4.0) (2021-01-15)
 
 
