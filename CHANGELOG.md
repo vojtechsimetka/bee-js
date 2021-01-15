@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.3](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.1...v0.3.3) (2021-01-15)
+
+
+### Bug Fixes
+
+* typo in the github action ([e335760](https://www.github.com/vojtechsimetka/bee-js/commit/e33576028a4a2a2304eb2a6b890b5e44c1ee0de1))
+
 ### [0.3.1](https://www.github.com/vojtechsimetka/bee-js/compare/v0.3.0...v0.3.1) (2021-01-15)
 
 
