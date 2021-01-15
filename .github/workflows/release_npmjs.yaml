@@ -1,13 +1,10 @@
 # After new release is published on github, publish it to npmjs
 name: Release npmjs
-
 on:
   release:
-    types: 
-      - published
-
+    types: [published]
 jobs:
-  release-npmjs:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
