@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.3](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.2...v0.4.3) (2021-01-21)
+
+
+### Bug Fixes
+
+* using PAT instead of GITHUB_TOKEN ([c836bfc](https://www.github.com/vojtechsimetka/bee-js/commit/c836bfc9405b168de8ece72647355258fd5a2214))
+
 ### [0.4.2](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.1...v0.4.2) (2021-01-15)
 
 
