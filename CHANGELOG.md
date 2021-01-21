@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.3...v1.0.0) (2021-01-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a simulation of breaking change
+
+### Features
+
+* this is a simulation of breaking change ([9f3f5cd](https://www.github.com/vojtechsimetka/bee-js/commit/9f3f5cd4416a59e7c1fe0b702a7db0e08bd966ae))
+
 ### [0.4.3](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.2...v0.4.3) (2021-01-21)
 
 
