@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.4.9](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.7...v0.4.9) (2021-01-23)
+
+
+### Bug Fixes
+
+* bumped release please action version ([c4d98c4](https://www.github.com/vojtechsimetka/bee-js/commit/c4d98c472fdf956b638cb7f8ebc5ec40dece4282))
+* trying to exclude releases from commitlint ([da111d3](https://www.github.com/vojtechsimetka/bee-js/commit/da111d33f0a7087998b1e8af77271729fe953873))
+
 ### [0.4.7](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.3...v0.4.7) (2021-01-23)
 
 
