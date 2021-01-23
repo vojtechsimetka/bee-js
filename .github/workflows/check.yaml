@@ -7,7 +7,6 @@ on:
   pull_request:
     branches:
       - '**'
-      - '!release**'
 
 jobs:
   check:
@@ -42,6 +41,7 @@ jobs:
 
       - name: Commit linting
         uses: wagoid/commitlint-github-action@v2
+        if: ${{ !contains(github.ref, 'release') }}
 
       - name: Code linting
         run: npm run lint:check
