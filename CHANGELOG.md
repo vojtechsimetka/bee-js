@@ -1,5 +1,21 @@
 # Changelog
 
+### [0.4.7](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.3...v0.4.7) (2021-01-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a simulation of breaking change
+
+### Features
+
+* this is a simulation of breaking change ([9f3f5cd](https://www.github.com/vojtechsimetka/bee-js/commit/9f3f5cd4416a59e7c1fe0b702a7db0e08bd966ae))
+
+
+### Bug Fixes
+
+* ci-check should not run on release branch ([d93d829](https://www.github.com/vojtechsimetka/bee-js/commit/d93d8291094e035ca0acf946d120b02b7c03649b))
+
 ### [0.4.3](https://www.github.com/vojtechsimetka/bee-js/compare/v0.4.2...v0.4.3) (2021-01-21)
 
 
