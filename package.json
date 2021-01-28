@@ -1,27 +1,30 @@
 {
-  "name": "@ethersphere/bee-js",
+  "name": "@vojtechsimetka/bee-js",
   "version": "0.1.0",
-  "description": "Storage library for Bee",
+  "description": "Javascript client for Bee",
   "keywords": [
     "Bee",
     "Swarm",
     "Decentralised Storage"
   ],
-  "homepage": "https://github.com/ethersphere/bee-js",
+  "homepage": "https://github.com/vojtechsimetka/bee-js",
   "bugs": {
-    "url": "https://github.com/ethersphere/bee-js/issues/"
+    "url": "https://github.com/vojtechsimetka/bee-js/issues/"
   },
   "license": "BSD-3-Clause",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethersphere/bee-js.git"
+    "url": "https://github.com/vojtechsimetka/bee-js.git"
   },
   "browser": {
+    "./dist/index.js": "./dist/index.browser.js",
     "stream": "readable-stream"
   },
   "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
   "scripts": {
+    "prepublishOnly": "rm -rf dist && npm run compile:types && npm run compile:browser && npm run compile:node",
     "compile:node": "webpack --progress --mode development --env target=node",
     "compile:types": "tsc --project tsconfig.d.json",
     "compile:browser": "webpack --progress --mode development --env target=web",
